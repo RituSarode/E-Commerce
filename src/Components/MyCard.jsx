@@ -32,13 +32,13 @@ const Dashboard = () => {
       id: 5, 
       title: 'My Wishlist', 
       description: 'Buy from items saved in Wishlist.', 
-      imageUrl: 'https://cdn-icons-png.flaticon.com/512/833/833472.png' // Wishlist Icon
+      imageUrl: 'https://cdn-icons-png.flaticon.com/512/833/833472.png' 
     },
     { 
       id: 6, 
       title: 'Contact Us', 
       description: 'Contact our customer service via phone or chat.', 
-      imageUrl: 'https://cdn-icons-png.flaticon.com/512/929/929409.png' // Contact Icon
+      imageUrl: 'https://cdn-icons-png.flaticon.com/512/929/929409.png' 
     }
   ];
 
